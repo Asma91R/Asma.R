@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Asmaa Refaat
 
-📧 [asmarefaat91@gmail.com](mailto:asmarefaat91@gmail.com) &nbsp;&nbsp;  🌐 [LinkedIn](https://www.linkedin.com/in/asma-refaat-984279243/)) &nbsp;&nbsp; 📍 Cairo, Egypt
+📧 [asmarefaat91@gmail.com](mailto:asmarefaat91@gmail.com) &nbsp;&nbsp;  🌐 [LinkedIn](https://www.linkedin.com/in/asma-refaat-984279243/) &nbsp;&nbsp; 📍 Cairo, Egypt
 
 ---
 
