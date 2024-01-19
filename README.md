@@ -1,13 +1,13 @@
 ### Hi there 👋
-# I'm Abdelrhman Youssef
+# I'm Asmaa Refaat
 
-📧 [abdelrhmanyoussef82000@gmail.com](mailto:abdelrhmanyoussef82000@gmail.com) &nbsp;&nbsp;  🌐 [LinkedIn](https://www.linkedin.com/in/abdelrhman-youssef-4984b71b7/) &nbsp;&nbsp; 📍 Cairo, Egypt
+📧 [asmarefaat91@gmail.com](mailto:asmarefaat91@gmail.com) &nbsp;&nbsp;  🌐 [LinkedIn](https://www.linkedin.com/in/asma-refaat-984279243/)) &nbsp;&nbsp; 📍 Cairo, Egypt
 
 ---
 
 ## Summary
 
-Dedicated and results-driven Junior Data Scientist with a Bachelor's degree in Computer Science. Proficient in leveraging statistical analysis, machine learning algorithms, and data visualization techniques to extract meaningful insights from complex datasets. Demonstrated ability to contribute to multidisciplinary teams, communicate technical concepts effectively, and solve real-world problems through innovative data analysis solutions. Eager to apply and expand my skills in a challenging data-driven environment.
+Dedicated and results-driven Junior Data Scientist with a Bachelor's degree in Architectural Engineering (9 years of my X field experience and shifted my career 2 years ago). Proficient in leveraging statistical analysis, machine learning algorithms, and data visualization techniques to extract meaningful insights from complex datasets. Demonstrated ability to contribute to multidisciplinary teams, communicate technical concepts effectively, and solve real-world problems through innovative data analysis solutions. Eager to apply and expand my skills in a challenging data-driven environment.
 
 ## Skills
 
@@ -35,7 +35,7 @@ Dedicated and results-driven Junior Data Scientist with a Bachelor's degree in C
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abdelrhman-youssef-4984b71b7/)
+- https://www.linkedin.com/in/asma-refaat-984279243/
 - Open to collaborative opportunities and discussions on data science.
 
 Happy coding! 🚀
